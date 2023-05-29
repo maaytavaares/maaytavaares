@@ -412,7 +412,7 @@ section
 .grad_button_1 > svg > rect
 {
 	opacity: 0.4;
-	rx: 28px;
+	border-radius
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
@@ -515,7 +515,7 @@ section
 {
 	stroke: url(#linear);
 	opacity: 0.4;
-	rx: 18;
+	border-radius: 18;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
